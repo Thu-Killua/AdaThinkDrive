@@ -3,8 +3,6 @@
 
 Yuechen Luo<sup>1,2\*</sup>, Fang Li<sup>2\*</sup>, Shaoqing Xu<sup>2\*,‡</sup>, Zhiyi Lai<sup>2</sup>, Lei Yang<sup>4</sup>, Qimao Chen<sup>1,2</sup>, Ziang Luo<sup>1</sup>, Zixun Xie<sup>2,5</sup>, Shengyin Jiang<sup>2</sup>, Jiaxin Liu<sup>1,2</sup>, Long Chen<sup>2</sup>, Bing Wang<sup>2</sup>, Zhi-xin Yang<sup>3,✉</sup>
 
-Haoyu Fu<sup>1\*</sup>, Diankun Zhang<sup>2\*</sup>, Zongchuang Zhao<sup>1\*</sup>, Jianfeng Cui<sup>2</sup>, Dingkang Liang<sup>1†</sup>, <br> Chong Zhang<sup>2</sup>, Dingyuan Zhang<sup>1</sup>, Hongwei Xie<sup>2†</sup>,  Bing Wang<sup>2</sup>, Xiang Bai<sup>1</sup>
-
 <sup>1</sup> Tsinghua University, <sup>2</sup> Xiaomi EV, <sup>3</sup> University of Macau, <sup>4</sup> Nanyang
 Technological University, <sup>5</sup> Peking University
 
