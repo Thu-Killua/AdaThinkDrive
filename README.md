@@ -1,4 +1,3 @@
-# AdaThinkDrive
 <div align="center">
 <h3>[🎉ICRA 2026] AdaThinkDrive: Adaptive Thinking via Reinforcement Learning for Autonomous Driving </h3>
 
